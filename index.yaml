@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginxstd:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-21T11:48:03.9690933+09:00"
+    description: nginx standard for OliveNetwork
+    digest: 8c02a89cdd94c236b3f02edaf147fbc8cccd2735ab8dae7667544ed7bc8af96e
+    name: nginxstd
+    type: application
+    urls:
+    - nginxstd-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-21T11:48:03.9677553+09:00"
